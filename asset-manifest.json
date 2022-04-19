@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Chouavue/tictactoe/static/css/main.22941023.css",
-    "main.js": "/Chouavue/tictactoe/static/js/main.bc13e26f.js",
-    "index.html": "/Chouavue/tictactoe/index.html",
-    "main.22941023.css.map": "/Chouavue/tictactoe/static/css/main.22941023.css.map",
-    "main.bc13e26f.js.map": "/Chouavue/tictactoe/static/js/main.bc13e26f.js.map"
+    "main.css": "/tictactoe/static/css/main.22941023.css",
+    "main.js": "/tictactoe/static/js/main.bc13e26f.js",
+    "index.html": "/tictactoe/index.html",
+    "main.22941023.css.map": "/tictactoe/static/css/main.22941023.css.map",
+    "main.bc13e26f.js.map": "/tictactoe/static/js/main.bc13e26f.js.map"
   },
   "entrypoints": [
     "static/css/main.22941023.css",
